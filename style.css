@@ -361,7 +361,7 @@ nav ul li a:hover {
 }
 .product {
   bottom: 10%;
-  right: 5%;
+  right: 10%;
   background: #ffb703;
 }
 .website {
@@ -834,3 +834,4 @@ nav ul li a:hover {
   }
 
 }
+
