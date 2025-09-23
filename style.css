@@ -353,15 +353,15 @@ nav ul li a:hover {
 }
 .app {
   top: 50%;
-  left: 5%;
+  left: 0.2%;
 }
 .fullstack {
-  bottom: 20%;
+  bottom: 10%;
   left: 5%;
 }
 .product {
   bottom: 10%;
-  right: 10%;
+  right: 2%;
   background: #ffb703;
 }
 .website {
@@ -832,7 +832,4 @@ nav ul li a:hover {
   .corner-arrows:after {
     display: none;
   }
-
 }
-
-
